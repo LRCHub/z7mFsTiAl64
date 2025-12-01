@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "魔法にかけられて",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-01T13:04:28.528698Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法にかけられて",
+      "artist": "山根万理奈",
+      "has_synced": false,
+      "path": "select/pl_01_魔法にかけられて_山根万理奈.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "魔法にかけられて",
+      "artist": "山根万理奈",
+      "has_synced": false,
+      "path": "select/pl_02_魔法にかけられて_山根万理奈.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "魔法にかけられて",
+      "artist": "山根万理奈",
+      "has_synced": false,
+      "path": "select/pl_03_魔法にかけられて_山根万理奈.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "魔法にかけられて",
+      "artist": "山根万理奈",
+      "has_synced": false,
+      "path": "select/pl_04_魔法にかけられて_山根万理奈.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "魔法にかけられて",
+      "artist": "山根万理奈",
+      "has_synced": false,
+      "path": "select/pl_05_魔法にかけられて_山根万理奈.txt"
+    }
+  ]
+}
